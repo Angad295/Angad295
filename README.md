@@ -1,4 +1,9 @@
- ##                                         Hi there 👋, I am Angad Pal Singh 
+
+ <h1 align="center">Hi 👋, I'm Angad Singh 🚀</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;DSA+%7C+ML+%7C+Web+Dev&center=true&width=500&height=45">
+</p>
 ![snake gif](https://github.com/Angad295/Angad295/blob/output/github-contribution-grid-snake.svg)
 
 
