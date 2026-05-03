@@ -1,5 +1,5 @@
-![snake gif](https://github.com/Angad295/Angad295/blob/output/github-contribution-grid-snake.svg)
 
+![snake gif](https://github.com/Angad295/Angad295/blob/output/github-contribution-grid-snake.svg)
 
 
 
