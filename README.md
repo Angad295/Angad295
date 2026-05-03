@@ -1,9 +1,9 @@
-
+ ##                   Hi there 👋, I am Angad Pal Singh 
 ![snake gif](https://github.com/Angad295/Angad295/blob/output/github-contribution-grid-snake.svg)
 
 
 
-## Hi there 👋
+
 
 <!--
 **Angad295/Angad295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
