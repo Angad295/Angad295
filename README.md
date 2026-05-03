@@ -1,4 +1,4 @@
- ##                   Hi there 👋, I am Angad Pal Singh 
+ ##                                         Hi there 👋, I am Angad Pal Singh 
 ![snake gif](https://github.com/Angad295/Angad295/blob/output/github-contribution-grid-snake.svg)
 
 
