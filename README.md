@@ -114,7 +114,7 @@ angad.sayHi();
 ```
 2024  ──▶  Basics of Programming · Python · C Programming ·HTML / CSS
 2025  ──▶  JS / PHP · C++ · First Web Projects · AI APIs (Gemini) · Live Deployments · Full-Stack Foundations
-2026  ──▶  Java · DSA · Foundations of Machine Learning / RDBMS
+2026  ──▶  Java · DSA · Fundamentals of Machine-Learning / RDBMS
 
 Now   ──▶   npm package publishing · DSA Grind 💪 · Took up ranking_system_challange(redrob_hackathon)
 ```
