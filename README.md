@@ -19,7 +19,7 @@
 
 ```javascript
 const angad = {
-  name: "Angad Isher",
+  name: "Angad Pal Singh",
   pronouns: "He/Him",
   location: "India 🇮🇳",
   education: "B.Tech — Computer Science (20XX)",
