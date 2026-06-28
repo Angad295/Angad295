@@ -126,7 +126,7 @@ Now   ──▶   npm package publishing · DSA Grind 💪 · Took up ranking_sy
 
 > _"Build things. Break them. Learn why. Repeat."_
 
-💼 Open to **internship opportunities** in Full-Stack / AI / Web Development  
+💼 Open to **internship opportunities** in Full-Stack / AI / Web Development / Data-Analyst / LLMs /  JAVA-Developer / Problem-Solving(DSA)
 📬 Reach me at **angadisher1@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/angad-pal-singh-b3a383305)
 
 </div>
