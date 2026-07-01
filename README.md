@@ -102,12 +102,12 @@ angad.sayHi();
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Angad295&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=Angad295&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/api?username=Angad295&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
+<img src="https://github-profile-trophy.vercel.app/?user=Angad295&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angad295&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="42%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/top-langs/?username=Angad295&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="42%" alt="Top Languages"/>
 
 </div>
 
