@@ -128,7 +128,7 @@ angad.sayHi();
 2025  ──▶  JS / PHP · C++ · First Web Projects · AI APIs (Gemini) · Live Deployments · Full-Stack Foundations
 2026  ──▶  Java · DSA · Fundamentals of Machine Learning / RDBMS
 
-            Published npm package (DevPulse CLI) 📦 · DSA 💪 · Redrob AI Hackathon 🏆
+            Published npm package (DevPulse CLI) 📦 · DSA Grind 💪 · Redrob AI Hackathon 🏆
 Now   ──▶  n8n automated FAQBot 24/7 (Docker)
 ```
 
