@@ -55,7 +55,7 @@ angad.sayHi();
 
 | 🔥 Project | ⚡ Tech Stack | 📌 Highlights | 🔗 Links |
 | ------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **⚡ DevPulse CLI** | TypeScript · Node.js · Gemini AI | **Published npm package** — AI-powered developer CLI, smart commits from git diff, automated code review, CHANGELOG.md generation, interactive prompts (commander + inquirer) | [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/devpulse-cli-angad) [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Angad295/Devpulse-CLI) |
+| **⚡ DevPulse CLI** | TypeScript · Node.js · Gemini AI | **Published npm package** — AI-powered developer CLI, smart commits from git diff, automated code review, CHANGELOG.md generation, interactive prompts (commander + inquirer) Got 280+ Weakly_Downloads| [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/devpulse-cli-angad) [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Angad295/Devpulse-CLI) |
 | **🤖 AI ChatBot** | JS · CSS · HTML · Gemini API | Decoupled REST architecture, Voice input (Web Speech API), Mobile-first UI, File uploads (PDF/DOCX/PPT up to 50MB), Dark/Light mode | [![Live](https://img.shields.io/badge/Live-Demo-6C63FF?style=flat-square)](https://agent-6a213c977131157f6c8b--heroic-sorbet-595707.netlify.app) [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Angad295/AI-ChatBot) |
 | **📄 Resume Lens** | PHP · HTML · CSS · JS · Gemini API | AI-powered resume scorer (out of 10), ATS compatibility check, PDF/DOC/DOCX parsing, XSS sanitization, Dark/Light theme | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Angad295/resume-lens) |
 | **🏆 Redrob Ranker** | JS · Node.js | Hackathon submission — candidate ranking & scoring system for Redrob AI challenge | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Angad295/redrob-ranker) |
@@ -79,8 +79,9 @@ angad.sayHi();
 ### 🤖 AI & APIs
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Grok API](https://img.shields.io/badge/Grok%20API-000000?style=for-the-badge&logo=x&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🌐 Frontend & Backend
 
@@ -91,6 +92,7 @@ angad.sayHi();
 
 ### 🧰 Tools & Platforms
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
